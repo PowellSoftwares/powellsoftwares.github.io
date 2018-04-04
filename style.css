@@ -2316,3 +2316,8 @@ ul {
 .align-icon {
     vertical-align: bottom;
 }
+
+.features-phone-image {
+    margin-top: 80px;
+    margin-right: 10px;
+}
